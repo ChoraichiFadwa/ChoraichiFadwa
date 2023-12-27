@@ -2,7 +2,7 @@
 <div>
   
 <div id="badges">
-  <a href="www.linkedin.com/in/choraichi-fadwa-9968891aa">
+  <a href="www.linkedin.com/in/fadwa-choraichi-">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mobile.twitter.com/FChoraichi">
