@@ -66,8 +66,8 @@ ECOLead serious game: learning missions for three finance career paths, an ML pr
 ##  GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ChoraichiFadwa&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoraichiFadwa&layout=compact&hide_border=true" />
+  <img height="160" src="./profile-summary-card-output/default/3-stats.svg" />
+  <img height="160" src="./profile-summary-card-output/default/1-repos-per-language.svg" />
 </p>
 
 ---
