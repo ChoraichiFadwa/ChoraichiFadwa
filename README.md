@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ChoraichiFadwa&style=flat-square&color=blue)
 
 **Data & AI Engineer** · Machine Learning · Computer Vision · Big Data · Python
+
 📍 Casablanca, Morocco
 
 I hold a Master's in **Big Data & IoT** from ENSAM Casablanca and a Bachelor's in **Computer Science, Networks & Multimedia** from FSTM Mohammedia. I work across the full data cycle: collecting and preparing data, building pipelines, training and evaluating models, and exposing them through APIs and dashboards.
@@ -11,7 +12,7 @@ I hold a Master's in **Big Data & IoT** from ENSAM Casablanca and a Bachelor's i
 
 ##  Experience
 
-**Data & AI Intern — Final-year project** · Vinci Energies / Axians · *Feb – Jul 2026*
+**Data & AI Intern - Final-year project** · Vinci Energies / Axians · *Feb – Jul 2026*
 AI-augmented video monitoring system for a hospital emergency waiting room: patient detection and tracking, age-group classification and pain-sign analysis, integrated through FastAPI. Worked with the DIANE technical team (Vinci Energies, France).
 
 **Full-Stack & AI Intern** · Centre d'Ingénierie et d'Innovation Pédagogique, UM5R Rabat · *Jul – Sep 2025*
